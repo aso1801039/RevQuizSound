@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RevQuizSound</string>
+    <string name="txtAnswer">解答くん</string>
+    <string name="lbl_Presenter">出題くん</string>
+    <string name="kotaeru">答える</string>
+    <string name="txtPresen">しゅつだい</string>
+    <string name="wrong">まちがい</string>
+    <string name="right">せいかい</string>
+    <string name="hakushu">はくしゅ</string>
+    <string name="title_activity_question_">Question_Activity</string>
+</resources>
